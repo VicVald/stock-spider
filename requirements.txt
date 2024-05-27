@@ -1,0 +1,10 @@
+pip install requests
+pip install bs4
+pip install datetime
+pip install pandas
+pip install numpy
+pip install matplotlib.pyplot
+pip install tkinter
+pip install matplotlib.backends.backend_tkagg
+pip install matplotlib.figure
+pip install concurrent.futures
